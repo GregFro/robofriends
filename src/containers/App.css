@@ -1,0 +1,13 @@
+
+    @font-face {
+    font-family: 'UltraViolent BB Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('UltraViolent BB Regular'), url('ultraviolentbb_reg.woff') format('woff');
+    }
+
+    h1 {
+       font-family: 'UltraViolent BB Regular' ;
+       font-size: 100;
+       color: #0ccac4;
+    }
